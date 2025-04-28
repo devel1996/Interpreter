@@ -6,7 +6,9 @@ supporting basic operations and arguments.
 ## Installation
 
 ```bash
-git clone https://github.com/Davo221/Interpreter.git
+git clone https://github.com/devel1996/Interpreter.git
+```
+```
 composer install 
 ```
 
