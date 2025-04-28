@@ -1,0 +1,11 @@
+(
+    json,
+        (map,
+            (array, "message"),
+            (array,
+            (concat, "GPT " , "Hello, ",
+              (getArg, 0)
+            )
+        )
+    )
+)
