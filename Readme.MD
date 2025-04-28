@@ -7,7 +7,7 @@ supporting basic operations and arguments.
 
 ```bash
 git clone https://github.com/Davo221/Interpreter.git
-comoser install 
+composer install 
 ```
 
 ## Features
